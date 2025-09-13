@@ -15,13 +15,20 @@ Bible365 is a Flutter-based mobile application that provides:
 ## 📦 Available APKs
 
 ### Release APK (Recommended)
+- **File**: `bible365-v6-release.apk`
+- **Version**: v6.0
+- **Size**: ~24.0 MB
+- **Type**: Production build
+- **Features**: Complete Chinese language support across all screens
+- **Optimized**: Yes, for performance and size
+- **Use**: Install on your Android device for the best experience
+
+### Previous Version
 - **File**: `bible365-v5-release.apk`
 - **Version**: v5.0
 - **Size**: ~23.9 MB
 - **Type**: Production build
-- **Features**: Chinese language support, improved UI
-- **Optimized**: Yes, for performance and size
-- **Use**: Install on your Android device for the best experience
+- **Features**: Partial Chinese language support
 
 ### Previous Version
 - **File**: `bible365-v4-release.apk`
@@ -43,13 +50,13 @@ Bible365 is a Flutter-based mobile application that provides:
 ### QR Code Download
 Scan this QR code with your Android device to quickly access the APK download:
 
-![Bible365 v5 APK QR Code](bible365-v5-apk-qr-with-text.png)
+![Bible365 v6 APK QR Code](bible365-v6-apk-qr-with-text.png)
 
-**Direct Download Link**: [bible365-v5-release.apk](https://github.com/vincenthanjs/bible365-apks/blob/main/bible365-v5-release.apk)
+**Direct Download Link**: [bible365-v6-release.apk](https://github.com/vincenthanjs/bible365-apks/blob/main/bible365-v6-release.apk)
 
 ## 🚀 Installation Instructions
 
-1. **Download** the `bible365-v5-release.apk` file to your Android device
+1. **Download** the `bible365-v6-release.apk` file to your Android device
 2. **Enable** "Install from Unknown Sources" in your device settings:
    - Go to Settings → Security → Install unknown apps
    - Enable for your file manager or browser
