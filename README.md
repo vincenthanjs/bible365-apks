@@ -12,9 +12,9 @@ Bible365 is a Flutter-based mobile application that provides:
 - Offline scripture storage
 - Daily notifications
 
-## 📦 Available APKs
+## 📦 Available APK
 
-### Latest Release APK (Recommended)
+### Latest Release APK
 - **File**: `bible365-v6.3.apk`
 - **Version**: v6.3
 - **Size**: ~35.7 MB
@@ -23,36 +23,6 @@ Bible365 is a Flutter-based mobile application that provides:
 - **Optimized**: Yes, for performance and size
 - **Use**: Install on your Android device for the best experience
 
-### Previous Release APK
-- **File**: `bible365-v6-release.apk`
-- **Version**: v6.0
-- **Size**: ~24.0 MB
-- **Type**: Production build
-- **Features**: Complete Chinese language support across all screens
-- **Optimized**: Yes, for performance and size
-
-### Previous Version
-- **File**: `bible365-v5-release.apk`
-- **Version**: v5.0
-- **Size**: ~23.9 MB
-- **Type**: Production build
-- **Features**: Partial Chinese language support
-
-### Previous Version
-- **File**: `bible365-v4-release.apk`
-- **Version**: v4.0
-- **Size**: ~23.2 MB
-- **Type**: Production build
-- **Features**: English only
-
-### Debug APK
-- **File**: `bible365-v4-debug.apk`
-- **Version**: v4.0
-- **Size**: ~80.2 MB
-- **Type**: Debug build
-- **Optimized**: No, contains debug information
-- **Use**: For development and testing purposes
-
 ## 📱 Quick Download
 
 ### QR Code Download
@@ -60,9 +30,7 @@ Scan this QR code with your Android device to quickly access the latest APK down
 
 ![Bible365 v6.3 APK QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
 
-**Direct Download Links**:
-- **Latest**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk) (v6.3 - Recommended)
-- **Previous**: [bible365-v6-release.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6-release.apk) (v6.0)
+**Direct Download Link**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
 
 ## 🚀 Installation Instructions
 
