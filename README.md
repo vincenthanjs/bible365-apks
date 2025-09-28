@@ -14,14 +14,22 @@ Bible365 is a Flutter-based mobile application that provides:
 
 ## 📦 Available APKs
 
-### Release APK (Recommended)
+### Latest Release APK (Recommended)
+- **File**: `bible365-v6.3.apk`
+- **Version**: v6.3
+- **Size**: ~35.7 MB
+- **Type**: Production build
+- **Features**: Enhanced share functionality, import from text, fixed week 1 tasks, improved rest day logic
+- **Optimized**: Yes, for performance and size
+- **Use**: Install on your Android device for the best experience
+
+### Previous Release APK
 - **File**: `bible365-v6-release.apk`
 - **Version**: v6.0
 - **Size**: ~24.0 MB
 - **Type**: Production build
 - **Features**: Complete Chinese language support across all screens
 - **Optimized**: Yes, for performance and size
-- **Use**: Install on your Android device for the best experience
 
 ### Previous Version
 - **File**: `bible365-v5-release.apk`
@@ -48,15 +56,17 @@ Bible365 is a Flutter-based mobile application that provides:
 ## 📱 Quick Download
 
 ### QR Code Download
-Scan this QR code with your Android device to quickly access the APK download:
+Scan this QR code with your Android device to quickly access the latest APK download:
 
-![Bible365 v6 APK QR Code](bible365-v6-apk-qr-with-text.png)
+![Bible365 v6.3 APK QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
 
-**Direct Download Link**: [bible365-v6-release.apk](https://github.com/vincenthanjs/bible365-apks/blob/main/bible365-v6-release.apk)
+**Direct Download Links**:
+- **Latest**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk) (v6.3 - Recommended)
+- **Previous**: [bible365-v6-release.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6-release.apk) (v6.0)
 
 ## 🚀 Installation Instructions
 
-1. **Download** the `bible365-v6-release.apk` file to your Android device
+1. **Download** the `bible365-v6.3.apk` file to your Android device (latest version)
 2. **Enable** "Install from Unknown Sources" in your device settings:
    - Go to Settings → Security → Install unknown apps
    - Enable for your file manager or browser
