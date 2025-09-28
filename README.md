@@ -12,9 +12,9 @@ Bible365 is a Flutter-based mobile application that provides:
 - Offline scripture storage
 - Daily notifications
 
-## 📦 Available APK
+## 📦 Available APKs
 
-### Latest Release APK
+### Latest Release APK (Recommended)
 - **File**: `bible365-v6.3.apk`
 - **Version**: v6.3
 - **Size**: ~35.7 MB
@@ -22,6 +22,14 @@ Bible365 is a Flutter-based mobile application that provides:
 - **Features**: Enhanced share functionality, import from text, fixed week 1 tasks, improved rest day logic
 - **Optimized**: Yes, for performance and size
 - **Use**: Install on your Android device for the best experience
+
+### Samsung-Compatible APK
+- **File**: `bible365-v6.3-samsung.apk`
+- **Version**: v6.3
+- **Size**: ~35.7 MB
+- **Type**: Production build with enhanced architecture support
+- **Features**: Same as above, optimized for Samsung devices
+- **Use**: If you get "problem parsing package" error on Samsung phones
 
 ## 📱 Quick Download
 
@@ -32,7 +40,8 @@ Scan this QR code with your Android device to quickly access the latest APK down
 
 **Download Links**:
 - **Short URL**: [bit.ly/bibled](https://bit.ly/bibled) (Easy to remember!)
-- **Direct Link**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
+- **Standard APK**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
+- **Samsung APK**: [bible365-v6.3-samsung.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3-samsung.apk) (If you get parsing errors)
 
 ## 🚀 Installation Instructions
 
