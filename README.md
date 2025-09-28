@@ -28,9 +28,11 @@ Bible365 is a Flutter-based mobile application that provides:
 ### QR Code Download
 Scan this QR code with your Android device to quickly access the latest APK download:
 
-![Bible365 v6.3 APK QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
+![Bible365 v6.3 APK QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://bit.ly/bibled)
 
-**Direct Download Link**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
+**Download Links**:
+- **Short URL**: [bit.ly/bibled](https://bit.ly/bibled) (Easy to remember!)
+- **Direct Link**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
 
 ## 🚀 Installation Instructions
 
