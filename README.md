@@ -31,6 +31,15 @@ Bible365 is a Flutter-based mobile application that provides:
 - **Features**: Same as above, optimized for Samsung devices
 - **Use**: If you get "problem parsing package" error on Samsung phones
 
+### Android 4.4.2 Compatible APK
+- **File**: `bible365-v6.3-android4.apk`
+- **Version**: v6.3
+- **Size**: ~8.4 MB
+- **Type**: Simplified build for Android 4.4.2
+- **Features**: Core functionality only (no PDF export, QR scanning, or advanced features)
+- **Optimized**: Yes, minimal size for older devices
+- **Use**: For devices running Android 4.4.2 (2013) or older
+
 ## 📱 Quick Download
 
 ### QR Code Download
@@ -42,6 +51,7 @@ Scan this QR code with your Android device to quickly access the latest APK down
 - **Short URL**: [bit.ly/bibled](https://bit.ly/bibled) (Easy to remember!)
 - **Standard APK**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
 - **Samsung APK**: [bible365-v6.3-samsung.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3-samsung.apk) (If you get parsing errors)
+- **Android 4.4.2 APK**: [bible365-v6.3-android4.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3-android4.apk) (For very old devices)
 
 ## 🚀 Installation Instructions
 
