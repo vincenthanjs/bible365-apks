@@ -1,98 +1,112 @@
-# Bible365 APKs
+# Bible365 APK Downloads
 
-This repository contains the Android APK files for the Bible365 app - a daily Bible reading companion that helps you read through the Bible in a year.
+## 📱 Latest Version: v7.1.0 (October 20, 2025)
 
-## 📱 App Description
+### 🎉 What's New in v7.1.0
+- ✅ **Critical Fix**: Fixed JSON syntax error in reading plan
+- ✅ All 365 daily Bible readings now display correctly
+- ✅ Verified all 12 months load properly
+- ✅ Reading plan synchronized with official schedule
 
-Bible365 is a Flutter-based mobile application that provides:
-- Daily Bible reading plans
-- SOAP journaling functionality
-- Reading streak tracking
+### 📥 Download
+- **[Download v7.1.0 APK](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v7.1.apk)** (70 MB)
+- **Short URL**: [bit.ly/bibled](https://bit.ly/bibled) - Easy to remember!
+- **QR Code**: Scan below with your Android device
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://bit.ly/bibled)
+
+### 📱 Installation Instructions
+
+1. **Download** the APK using the link above or scan the QR code
+2. **Enable** "Install from Unknown Sources" in your Android settings
+   - Go to Settings → Security → Enable "Unknown Sources"
+3. **Open** the downloaded APK file
+4. **Install** and enjoy!
+
+### 🚀 Features
+
+#### Multi-Language Support
+- English
+- 中文 (Chinese)
+- తెలుగు (Telugu)
+- မြန်မာ (Myanmar)
+
+#### Bible Reading
+- 365-day reading plan
+- Daily scripture passages
+- Progress tracking with streaks
 - Multiple Bible translations
-- Offline scripture storage
-- Daily notifications
+- SOAP journaling
 
-## 📦 Available APKs
+#### Verse Memorization
+- Up to 200 verses
+- Custom categories
+- Template loading (pre-selected verses)
+- Spaced repetition practice
+- Interactive quizzes
+- Import/Export via QR code or file
 
-### Latest Release APK (Recommended)
-- **File**: `bible365-v6.3.apk`
-- **Version**: v6.3
-- **Size**: ~35.7 MB
-- **Type**: Production build
-- **Features**: Enhanced share functionality, import from text, fixed week 1 tasks, improved rest day logic
-- **Optimized**: Yes, for performance and size
-- **Use**: Install on your Android device for the best experience
+#### Meditation & Journal
+- SOAP method (Scripture, Observation, Application, Prayer)
+- Entry list view
+- Export all entries to file
+- Date synchronization
+- Share entries
 
-### Samsung-Compatible APK
-- **File**: `bible365-v6.3-samsung.apk`
-- **Version**: v6.3
-- **Size**: ~35.7 MB
-- **Type**: Production build with enhanced architecture support
-- **Features**: Same as above, optimized for Samsung devices
-- **Use**: If you get "problem parsing package" error on Samsung phones
+### 📊 Version History
 
-### Android 4.4.2 Compatible APK
-- **File**: `bible365-v6.3-android4.apk`
-- **Version**: v6.3
-- **Size**: ~8.4 MB
-- **Type**: Simplified build for Android 4.4.2
-- **Features**: Core functionality only (no PDF export, QR scanning, or advanced features)
-- **Optimized**: Yes, minimal size for older devices
-- **Use**: For devices running Android 4.4.2 (2013) or older
+| Version | Release Date | Size | Notes |
+|---------|--------------|------|-------|
+| **v7.1.0** | Oct 20, 2025 | 70 MB | 🔥 **Critical fix**: Reading plan bug |
+| v7.0.0 | Oct 12, 2025 | 70 MB | Multi-language, 200 verses, categories |
+| v6.3 | Sep 2025 | 74 MB | Enhanced features |
 
-## 📱 Quick Download
+### 🔧 Requirements
+- **Android**: 6.0 (API 23) or higher
+- **Storage**: 100 MB free space
+- **Internet**: Optional (for Bible Gateway integration)
 
-### QR Code Download
-Scan this QR code with your Android device to quickly access the latest APK download:
+### 📝 Release Notes - v7.1.0
 
-![Bible365 v6.3 APK QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://bit.ly/bibled)
+#### Bug Fixes
+- Fixed JSON syntax error causing "no reading for today" issue
+- Corrected missing comma in November section of reading plan
+- Verified all 365 daily readings load correctly
 
-**Download Links**:
-- **Short URL**: [bit.ly/bibled](https://bit.ly/bibled) (Easy to remember!)
-- **Standard APK**: [bible365-v6.3.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3.apk)
-- **Samsung APK**: [bible365-v6.3-samsung.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3-samsung.apk) (If you get parsing errors)
-- **Android 4.4.2 APK**: [bible365-v6.3-android4.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v6.3-android4.apk) (For very old devices)
+#### Verification
+```
+✅ JSON is valid!
+Total months: 12
+All dates: January 1 - December 31
+October 20: Matthew 26-28 ✓
+```
 
-## 🚀 Installation Instructions
+### 🆕 Features (from v7.0.0)
+- **Telugu & Myanmar** language support with full translations
+- **200-verse capacity** (up from 10)
+- **Category management** for organizing verses
+- **Template loading** - Load pre-selected verse collections
+- **SOAP entry list** - View all meditation entries
+- **Export function** - Export all SOAP entries to file
+- **Clear all** option for verses
+- **Floating share button** in meditation screen
 
-1. **Download** the `bible365-v6.3.apk` file to your Android device (latest version)
-2. **Enable** "Install from Unknown Sources" in your device settings:
-   - Go to Settings → Security → Install unknown apps
-   - Enable for your file manager or browser
-3. **Tap** the downloaded APK file to install
-4. **Launch** the app and start your Bible reading journey!
+### 🔒 Security
+- Signed with release keystore
+- No debug symbols
+- Secure local storage
+- No analytics or tracking
 
-## 📋 Requirements
+### 📞 Support
+- **Website**: [BibleDaily Support](https://vincenthanjs.github.io/bibledaily-web/support/)
+- **Privacy Policy**: [Privacy](https://vincenthanjs.github.io/bibledaily-web/privacy/)
+- **GitHub**: [bible365](https://github.com/vincenthanjs/bible365)
 
-- Android 5.0 (API level 21) or higher
-- At least 50 MB of free storage space
-- Internet connection for initial setup and Bible text downloads
-
-## 🔧 Features
-
-- **Daily Reading Plans**: Structured 365-day Bible reading schedule
-- **SOAP Journaling**: Scripture, Observation, Application, Prayer format
-- **Progress Tracking**: Visual progress indicators and streak counters
-- **Multiple Translations**: Support for various Bible versions
-- **Offline Access**: Download scriptures for offline reading
-- **Notifications**: Daily reminders to maintain your reading habit
-
-## 📱 Screenshots
-
-*Screenshots will be added soon*
-
-## 🐛 Bug Reports
-
-If you encounter any issues, please report them in the main project repository: [bible365](https://github.com/vincenthanjs/bible365)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the main project repository for details.
-
-## 🔄 Updates
-
-This repository will be updated with new APK releases as the app is developed and improved.
+### 🙏 Acknowledgments
+Special thanks to the community for testing and feedback!
 
 ---
 
-**Note**: This repository only contains the compiled APK files. For the source code and development, visit the main [bible365 repository](https://github.com/vincenthanjs/bible365).
+**Download Link**: [bible365-v7.1.apk](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v7.1.apk)
+
+**Short URL**: [bit.ly/bibled](https://bit.ly/bibled)
