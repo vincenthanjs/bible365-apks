@@ -9,11 +9,20 @@
 - ✅ Reading plan synchronized with official schedule
 
 ### 📥 Download
+
+#### Standard Version (Android 6.0+)
 - **[Download v7.1.0 APK](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v7.1.apk)** (70 MB)
 - **Short URL**: [bit.ly/bibled](https://bit.ly/bibled) - Easy to remember!
+- **Requirements**: Android 6.0 (API 23) or higher
 - **QR Code**: Scan below with your Android device
 
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://bit.ly/bibled)
+
+#### Compatibility Version (Android 5.0+) 🔧
+- **[Download v7.1.0 Android 5](https://github.com/vincenthanjs/bible365-apks/raw/main/bible365-v7.1-android5.apk)** (34 MB)
+- **For older phones**: Samsung Galaxy J1 Ace, Android 5.x devices
+- **Requirements**: Android 5.0 (API 21) or higher
+- **Note**: Smaller file size, same features!
 
 ### 📱 Installation Instructions
 
@@ -62,9 +71,17 @@
 | v6.3 | Sep 2025 | 74 MB | Enhanced features |
 
 ### 🔧 Requirements
+
+#### Standard Version
 - **Android**: 6.0 (API 23) or higher
 - **Storage**: 100 MB free space
 - **Internet**: Optional (for Bible Gateway integration)
+
+#### Android 5 Compatibility Version
+- **Android**: 5.0 (API 21) or higher
+- **Storage**: 80 MB free space
+- **Internet**: Optional (for Bible Gateway integration)
+- **Perfect for**: Older phones like Samsung Galaxy J1 Ace
 
 ### 📝 Release Notes - v7.1.0
 
